@@ -1,1 +1,8 @@
 name, date, description
+John Whiddon
+0284759
+3/27/15
+
+Creates a sphere with a floating sphere rotating around it.
+Uses perspective and model viewing with light shaders on the sphere
+Uses an external image file called "Near Background.png" to texture the file
